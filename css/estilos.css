@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 1200px;
+    height: 1000px;
+    
+    
+}
+.caja{
+    
+    width: 1000px;
+    height: 500px;
+    background-color: gray;
+
+}
+.busca{
+   
+    width: 400px;
+    height: 20px;
+}
+.caja2{
+    float: left;
+    width: 700px;
+    height: 300px;
+    background-color: rgb(219, 205, 205); 
+    
+}
+.buscar{
+    width: 700px;
+    height: 50px;
+    background-color: gainsboro;
+    float: left;
+}
+.menu {
+   display: flex;
+   
+}
+.menu h3{
+    padding-left: 40px;
+}
+.c2{
+    margin-right: 90px;
+}
+.menu2{
+    display: flex;
+}
+.menu2 h3{
+    padding-left: 60px;
+}
+.c4{
+    margin-right: 70px;
+
+}
+.arriba{
+    background-color: red;
+    width: 300px;
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif 20px;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+     
+}
+
+
+.pago{
+    width: 70px;
+    height: 30px;
+    border: 0px;
+    background-color: red;   
+}
+.abajo{
+    background-color: rgb(207, 204, 204);
+    width: 300px;
+    height: 330px;
+}
+.docu{
+    width: 150px;
+    height: 60px;
+    
+    float: left;
+    
+}
+.ep{
+    width: 100px;
+    height: 20px;
+}
+.dt{
+    width: 300px;
+    height: 60px;
+    
+
+}
+
+.tipo{
+    width: 150px;
+    height: 60px;
+    
+    float: right;
+    
+}
+
+.t1{
+    width: 100px;
+    height: 20px;
+}
+.est{
+    width: 100px;
+    height: 20px;
+    
+}
+.fecha{
+    width: 300px;
+    height: 50px;
+    
+}
+.prove{  
+    width: 300px;
+    height: 80px;
+    
+
+}
+.monto{
+    width: 300px;
+    height: 90px;
+    
+    
+    
+}
+.espacio{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.poner{
+    width: 50px;
+    height: 10px;
+    margin-left: 200px;
+    margin-bottom: -10px;
+
+}
+.date{
+    width: 250px;
+    height: 20px;
+}
+.pro{
+    width: 250px;
+    height: 20px;
+}
+.serie{
+    width: 300px;
+    height: 60px;
+    
+
+}
+.t2{
+    width: 100px;
+    height: 20px;
+}
+.ser{
+    width: 150px;
+    height: 60px;
+    
+    float: left;
+}
+.venta{
+    width: 150px;
+    height: 60px;
+    
+    float: right;
+}
+.es{
+    color: aqua;
+}
+.caja3{
+    float: right;
+    width: 300px;
+    height: 400px;
+    background-color: lightcyan;
+}
